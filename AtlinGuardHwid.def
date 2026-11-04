@@ -1,0 +1,7 @@
+LIBRARY AtlinGuardHwid
+EXPORTS
+    AtgHwid_Start
+    AtgHwid_Stop
+    AtgHwid_ObserveAuthenticated
+    AtgHwid_ObserveAuthenticatedPeer
+    AtgHwid_LastStatus
